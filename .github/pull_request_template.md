@@ -3,5 +3,5 @@ Please always provide the [GitHub issue(s)](../issues) your PR is for, as well a
 Fix #<gh-issue-id>
 
 Test URLs:
-- Before: https://main--bhellema-250725--aemysites.aem.live/
-- After: https://<branch>--bhellema-250725--aemysites.aem.live/
+- Before: https://main--bhellema-250725--bhellema.aem.live/
+- After: https://<branch>--bhellema-250725--bhellema.aem.live/

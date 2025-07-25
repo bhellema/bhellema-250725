@@ -4,8 +4,8 @@ This is a project created by AEMY.
 
 ## Environments
 
-- Preview: https://main--bhellema-250725--aemysites.aem.page/
-- Live: https://main--bhellema-250725--aemysites.aem.live/
+- Preview: https://main--bhellema-250725--bhellema.aem.page/
+- Live: https://main--bhellema-250725--bhellema.aem.live/
 
 ## Installation
 
