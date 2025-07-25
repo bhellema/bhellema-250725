@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/AEMDemos/Shared%20Documents/sites/aemy-sites/bhellema-250725
+  /:
+    url: https://content.da.live/aemysites/bhellema-250725/
+    type: markup
